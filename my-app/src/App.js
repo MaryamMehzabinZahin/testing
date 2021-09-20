@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import NewComp from './Components/NewComp';
 
-
+/*testing*/
 
 class App extends React.Component{
   styles={
